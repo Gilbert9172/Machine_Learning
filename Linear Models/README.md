@@ -23,3 +23,6 @@ https://www.notion.so/NOTE2-4a50c14bfcbe4235af6afd0dca2ab138
 - Overfitting & Underfitting
 - Variance & Bias tradeoff 
 -------------------------------------------------------------------------
+
+# NOTE 3 (Ridge regression)
+https://www.notion.so/NOTE3-09839e9ae4f7424481bbc434df920ba9
