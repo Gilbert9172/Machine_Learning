@@ -34,3 +34,12 @@ https://www.notion.so/NOTE3-09839e9ae4f7424481bbc434df920ba9
 - Ridge Cross Validation
 - fit_transform() vs transform()
 -------------------------------------------------------------------------
+
+# NOTE 4 (Logistic Regression)
+
+https://www.notion.so/NOTE4-a9242f21329544fbb390100543008a9c
+- Classification vs Regession
+- Train/Validation/Test set
+- Odds & Logit transformation
+-------------------------------------------------------------------------
+
