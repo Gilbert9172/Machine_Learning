@@ -14,3 +14,10 @@ https://www.notion.so/NOTE1-b9b8bfe602824760a1c47dbc395cb8d6
 - Node
 - Pipeline
 -------------------------------------------------------------------------
+
+# NOTE 2 (Random Forest)
+
+https://www.notion.so/NOTE2-30329e5002b545999252f9f57c37de07
+- Random Forest
+- Ordinal Encoder
+-------------------------------------------------------------------------
