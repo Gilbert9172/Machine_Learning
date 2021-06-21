@@ -21,3 +21,11 @@ https://www.notion.so/NOTE2-30329e5002b545999252f9f57c37de07
 - Random Forest
 - Ordinal Encoder
 -------------------------------------------------------------------------
+
+# NOTE 3 (Confusion matrix)
+
+https://www.notion.so/NOTE3-f835544222c5472d944c56362c01c8cd
+- Confusion matrix
+- Precision & Recall (Sensitivity) 
+- ROC curve, AUC
+-------------------------------------------------------------------------
