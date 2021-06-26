@@ -29,3 +29,10 @@ https://www.notion.so/NOTE3-f835544222c5472d944c56362c01c8cd
 - Precision & Recall (Sensitivity) 
 - ROC curve, AUC
 -------------------------------------------------------------------------
+
+# NOTE 4 (Model Selection)
+
+https://www.notion.so/NOTE4-f719698b06044872afe6610ada13c665
+- Cross validation
+- Hyper Parameter  
+-------------------------------------------------------------------------
