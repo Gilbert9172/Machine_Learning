@@ -6,6 +6,11 @@ When using it, plz show where it comes from (ex. GitHub address). THX😊
 GitHub address : https://github.com/Gilbert9172
 -------------------------------------------------------------------------
 
+# NOTE 2 (Data Wrangling)
+
+https://www.notion.so/NOTE2-55c60f20adee48358b88f769b478e9ba
+- Data Wrangling
+-------------------------------------------------------------------------
 # NOTE 3 (Feature Importances)
 
 https://www.notion.so/NOTE3-af7a1a26b333474ba9350ebe88d3e3d3
